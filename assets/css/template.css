@@ -63,7 +63,11 @@ header .middle a,header .rightside a{
     text-transform: uppercase;
  }
 
- header .menu--icon{
+ header .rightside .menu img{
+    width: 20px;
+ }
+
+/* header .menu--icon{
      width: 18px;
      height: 16px;
      display: flex;
